@@ -56,13 +56,3 @@ El script principal a ejecutar es AppGUI.py:
 Bash
 
 python AppGUI.py
-📸 Captura de Pantalla
-
----
-
-**Siguiente paso:** Si necesitas ayuda para crear el archivo PDF a partir de este texto Markdown, puedes usar una herramienta en línea (como un conversor de Markdown a PDF) o la funcionalidad de impresión de tu navegador (imprimir la página de GitHub como PDF) una vez que lo hayas subido.
-
-¿Te gustaría que revise algún otro detalle del código o te ayude con alguna otra parte de la actividad?
-Bash
-
-python AppGUI.py
