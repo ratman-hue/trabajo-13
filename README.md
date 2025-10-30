@@ -55,4 +55,4 @@ Ejecución
 El script principal a ejecutar es AppGUI.py:
 
 ``` bash
-python AppGUI.py ```
+python AppGUI.py
