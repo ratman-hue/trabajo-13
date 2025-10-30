@@ -58,4 +58,4 @@ El script principal a ejecutar es AppGUI.py:
 ``` bash
 python AppGUI.py
 ```
-![ imagen](interfaz.jpeg)
+![ imagen](Captura de pantalla 2025-10-29 124659.png)
