@@ -45,7 +45,7 @@ El proyecto consta de los siguientes módulos:
 
 ```bash
 pip install mysql-connector-python
-\`\`\`
+```
 
 Configuración de la Base de Datos
 Crea la base de datos: CREATE DATABASE registro_empleados;
@@ -57,4 +57,4 @@ El script principal a ejecutar es AppGUI.py:
 
 ``` bash
 python AppGUI.py
-\`\`\`
+```
