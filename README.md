@@ -54,7 +54,5 @@ Modifica los archivos ConexionDB.py y AppGUI.py y reemplaza "root" con tu contra
 Ejecución
 El script principal a ejecutar es AppGUI.py:
 
-``` Bash
-
-python AppGUI.py
-```
+``` bash
+python AppGUI.py ```
