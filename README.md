@@ -43,8 +43,8 @@ El proyecto consta de los siguientes módulos:
 
 ### Instalación de Dependencias
 
-```bash```
-pip install mysql-connector-python
+```bash
+pip install mysql-connector-python ```
 Configuración de la Base de Datos
 Crea la base de datos: CREATE DATABASE registro_empleados;
 
@@ -53,6 +53,7 @@ Modifica los archivos ConexionDB.py y AppGUI.py y reemplaza "root" con tu contra
 Ejecución
 El script principal a ejecutar es AppGUI.py:
 
-Bash
+``` Bash
 
 python AppGUI.py
+```
