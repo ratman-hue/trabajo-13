@@ -43,7 +43,7 @@ El proyecto consta de los siguientes módulos:
 
 ### Instalación de Dependencias
 
-```bash
+```bash```
 pip install mysql-connector-python
 Configuración de la Base de Datos
 Crea la base de datos: CREATE DATABASE registro_empleados;
