@@ -57,6 +57,6 @@ El script principal a ejecutar es AppGUI.py:
 ``` bash
 python AppGUI.py
 ```
-![captura del codigo]("https://github.com/user-attachments/assets/2121edc1-f3aa-45a6-add5-3cb24f6da35d")
 
-![captura del codigo](ruta/a/la/imagen.extensión)
+<img width="1919" height="998" alt="Captura de pantalla 2025-10-29 124659" src="https://github.com/user-attachments/assets/4abe0134-2195-4101-8c8a-2d4a5163637c" />
+
