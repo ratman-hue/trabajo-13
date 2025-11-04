@@ -52,12 +52,12 @@ Crea la base de datos: CREATE DATABASE registro_empleados;
 
 Modifica los archivos ConexionDB.py y AppGUI.py y reemplaza "root" con tu contraseña real de MySQL.
 
-Ejecución
 El script principal a ejecutar es AppGUI.py:
 
 ``` bash
 python AppGUI.py
 ```
 ![captura del codigo](https://1drv.ms/i/c/d6fcfa00104b6485/EfvYIgLs-WdOiBbd_lx_9ncB3Mx-UmHRGnviMSjUIGS4DQ?e=9BVv1c)
+Ejecución<img width="1919" height="998" alt="Captura de pantalla 2025-10-29 124659" src="https://github.com/user-attachments/assets/2121edc1-f3aa-45a6-add5-3cb24f6da35d" />
 
 ![captura del codigo](ruta/a/la/imagen.extensión)
